@@ -1,0 +1,32 @@
+.service-row{
+    margin-top: 80px;
+}
+.service-icon{
+    width: 150px;
+    padding: 30px;
+    background-color: rgb(105, 132, 172);
+    display: inline-block;
+   
+}
+.card{
+    text-decoration: none;
+    color:black;
+}
+.service-icon:hover{ 
+    animation: roll 3s infinite;
+    transform: rotate(30deg);
+}
+.service-img{
+    text-align: center;
+    padding: 20px;
+}
+  
+@keyframes roll {
+    0% {
+      transform: rotate(0);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  

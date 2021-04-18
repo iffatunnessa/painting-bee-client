@@ -1,0 +1,16 @@
+[{
+    "id": 1,
+    "name": "Red-wine Accent wall",
+    "details":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati molestiae recusandae suscipit voluptatem! Ab quisquam ex, quis quaerat explicabo at eum molestias, hic architecto eius quidem itaque sed minima.",
+    "image": "https://i.pinimg.com/originals/ea/a8/60/eaa86056752f71236be618762cbd6e67.jpg"
+  }, {
+    "id": 2,
+    "name": "Family Space Accent Wall",
+    "details":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati molestiae recusandae suscipit voluptatem! Ab quisquam ex, quis quaerat explicabo at eum molestias, hic architecto eius quidem itaque sed minima.",
+    "image": "https://i.pinimg.com/736x/8a/ad/3e/8aad3e3a3f3d87da3bf5e49214cbfd19.jpg"
+  }, {
+    "id": 3,
+    "name": "Kids corner : Teal and Grape",
+    "details":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veritatis obcaecati molestiae recusandae suscipit voluptatem! Ab quisquam ex, quis quaerat explicabo at eum molestias, hic architecto eius quidem itaque sed minima.",
+    "image": "https://indigopaints.com/wp-content/uploads/2020/08/Teal-and-Grape.jpg"
+  }]

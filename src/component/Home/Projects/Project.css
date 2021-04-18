@@ -1,0 +1,13 @@
+.project-img {
+    height: 400px ;
+    object-fit:cover;
+    transition: all .2s ease-in-out; 
+    padding:10px;
+}
+.project-img:hover {
+    transform: scale(1.1);
+    object-fit:cover;
+}
+.project-row{
+    margin-top: 80px;
+}

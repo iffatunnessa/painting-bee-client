@@ -1,0 +1,30 @@
+#footer-area{
+    width:100%;
+    height:420px;
+    background-color: rgb(105, 132, 172);
+    color: aliceblue;
+}
+#footer-area .nav-link{
+    color: aliceblue;
+}
+#footer-area h3{
+    font-weight: bolder;
+}
+#footer-area img{
+    text-align: center;
+    width:60px;
+}
+.social-icon{
+    margin-left: 10px;
+    font-size:30px;
+}
+@media only screen and (max-width: 600px) {
+    .container{
+        width:100%;
+    }
+    #footer-area{
+        width:100%;
+        height:800px;
+    }
+ 
+}
