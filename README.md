@@ -1,10 +1,10 @@
 #Live Link: https://painting-bee.web.app/
 This website is a complete website for a housing painting company.
 
-It is a react application with express js, node js, rest api. 
+It is a react application with express js, node js, rest api. \n
 Mongodb has been used as database.
 Server is deployed in heroku and cliet side in firebase.
-Bootstrap 5.0 has been sed for front-end.
+Bootstrap 5.0 has been used for front-end.
 
 Features:
 1. Responsive Home page with six sections: Header, About, Services, Previous Projects, Testimonial, and Footer.
